@@ -1,0 +1,19 @@
+{
+    "name": "dadandev/idgamechecker",
+    "description": "library php untuk cek id game ff,ml",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DadanDev\\IdGamaChecker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dadan Hidayat",
+            "email": "dadanhidyt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
